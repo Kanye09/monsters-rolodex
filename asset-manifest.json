@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https.//Kanye09.github.io/monsters-rolodex/static/css/main.57e5ce7a.chunk.css",
+    "main.js": "/https.//Kanye09.github.io/monsters-rolodex/static/js/main.78d450ed.chunk.js",
+    "main.js.map": "/https.//Kanye09.github.io/monsters-rolodex/static/js/main.78d450ed.chunk.js.map",
+    "runtime-main.js": "/https.//Kanye09.github.io/monsters-rolodex/static/js/runtime-main.af098ff2.js",
+    "runtime-main.js.map": "/https.//Kanye09.github.io/monsters-rolodex/static/js/runtime-main.af098ff2.js.map",
+    "static/js/2.053fb966.chunk.js": "/https.//Kanye09.github.io/monsters-rolodex/static/js/2.053fb966.chunk.js",
+    "static/js/2.053fb966.chunk.js.map": "/https.//Kanye09.github.io/monsters-rolodex/static/js/2.053fb966.chunk.js.map",
+    "static/js/3.a612b9b8.chunk.js": "/https.//Kanye09.github.io/monsters-rolodex/static/js/3.a612b9b8.chunk.js",
+    "static/js/3.a612b9b8.chunk.js.map": "/https.//Kanye09.github.io/monsters-rolodex/static/js/3.a612b9b8.chunk.js.map",
+    "index.html": "/https.//Kanye09.github.io/monsters-rolodex/index.html",
+    "static/css/main.57e5ce7a.chunk.css.map": "/https.//Kanye09.github.io/monsters-rolodex/static/css/main.57e5ce7a.chunk.css.map",
+    "static/js/2.053fb966.chunk.js.LICENSE.txt": "/https.//Kanye09.github.io/monsters-rolodex/static/js/2.053fb966.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af098ff2.js",
+    "static/js/2.053fb966.chunk.js",
+    "static/css/main.57e5ce7a.chunk.css",
+    "static/js/main.78d450ed.chunk.js"
+  ]
+}
